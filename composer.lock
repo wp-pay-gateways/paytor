@@ -70,16 +70,17 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/wp-pay-gateways/mollie.git",
-                "reference": "fa1eba9cce416a0121f13ae68790c69fb13ad9f4"
+                "reference": "e5f7be32ee1bfa421864e13d476fb2caab3645b9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wp-pay-gateways/mollie/zipball/fa1eba9cce416a0121f13ae68790c69fb13ad9f4",
-                "reference": "fa1eba9cce416a0121f13ae68790c69fb13ad9f4",
+                "url": "https://api.github.com/repos/wp-pay-gateways/mollie/zipball/e5f7be32ee1bfa421864e13d476fb2caab3645b9",
+                "reference": "e5f7be32ee1bfa421864e13d476fb2caab3645b9",
                 "shasum": ""
             },
             "require": {
                 "php": ">=5.2.4",
+                "wp-pay-gateways/common": "dev-develop",
                 "wp-pay/core": "dev-develop"
             },
             "require-dev": {
@@ -119,7 +120,7 @@
                 "wordpress",
                 "wp"
             ],
-            "time": "2015-11-12 13:38:28"
+            "time": "2015-11-19 13:08:28"
         },
         {
             "name": "wp-pay/core",
