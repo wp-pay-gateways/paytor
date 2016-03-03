@@ -14,7 +14,7 @@ class Pronamic_WP_Pay_Gateways_Paytor_Integration extends Pronamic_WP_Pay_Gatewa
 		$this->id            = 'paytor';
 		$this->name          = 'Paytor';
 		$this->url           = 'http://paytor.com/';
-		$this->dashboard_url = 'http://paytor.com/';
+		$this->product_url   = 'http://paytor.com/';
 		$this->provider      = 'paytor';
 	}
 }
